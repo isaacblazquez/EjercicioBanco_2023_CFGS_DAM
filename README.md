@@ -1,6 +1,6 @@
 # EjercicioBanco_2023_CFGS_DAM
 
-# Práctica de Programación en PHP EjercicioBAnco
+# Práctica de Programación en PHP EjercicioBanco
 
 Este es un repositorio que contiene una práctica de programación en PHP.
 En esta practica se ha creado una aplicacion de ejemplo con las funcionalidades 
